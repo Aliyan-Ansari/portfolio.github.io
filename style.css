@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(34, 35, 36);
+    color: rgb(255, 255, 255);
+    font: 1em sans-serif;
+    
+}
+#profile{
+    float: left;
+}
+#text{
+    margin-left: 320px;
+}
+#para{
+    color: rgb(23, 190, 113);
+}
+.texts{
+    color: rgb(168, 168, 168);
+}
+#L1{
+    float: left;
+    overflow: hidden;
+    width: 490px;
+}
+#R1{
+    margin-left: 450px;
+    overflow: hidden;
+}
